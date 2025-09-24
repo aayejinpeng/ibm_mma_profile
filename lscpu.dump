@@ -1,0 +1,35 @@
+Architecture:                         ppc64le
+Byte Order:                           Little Endian
+CPU(s):                               8
+On-line CPU(s) list:                  0,1
+Off-line CPU(s) list:                 2-7
+Model name:                           POWER10 (architected), altivec supported
+Model:                                2.0 (pvr 0080 0200)
+Thread(s) per core:                   2
+Core(s) per socket:                   1
+Socket(s):                            1
+Physical sockets:                     2
+Physical chips:                       2
+Physical cores/chip:                  10
+Hypervisor vendor:                    pHyp
+Virtualization type:                  para
+L1d cache:                            64 KiB (2 instances)
+L1i cache:                            96 KiB (2 instances)
+L2 cache:                             2 MiB (2 instances)
+L3 cache:                             8 MiB (2 instances)
+NUMA node(s):                         1
+NUMA node0 CPU(s):                    0,1
+Vulnerability Gather data sampling:   Not affected
+Vulnerability Itlb multihit:          Not affected
+Vulnerability L1tf:                   Not affected
+Vulnerability Mds:                    Not affected
+Vulnerability Meltdown:               Not affected
+Vulnerability Mmio stale data:        Not affected
+Vulnerability Reg file data sampling: Not affected
+Vulnerability Retbleed:               Not affected
+Vulnerability Spec rstack overflow:   Not affected
+Vulnerability Spec store bypass:      Not affected
+Vulnerability Spectre v1:             Mitigation; __user pointer sanitization, ori31 speculation barrier enabled
+Vulnerability Spectre v2:             Mitigation; Software count cache flush (hardware accelerated), Software link stack flush
+Vulnerability Srbds:                  Not affected
+Vulnerability Tsx async abort:        Not affected

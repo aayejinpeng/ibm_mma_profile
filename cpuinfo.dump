@@ -1,0 +1,15 @@
+processor	: 0
+cpu		: POWER10 (architected), altivec supported
+clock		: 2450.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 1
+cpu		: POWER10 (architected), altivec supported
+clock		: 2450.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+timebase	: 512000000
+platform	: pSeries
+model		: IBM,9105-22A
+machine		: CHRP IBM,9105-22A
+MMU		: Radix

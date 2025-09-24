@@ -1,0 +1,12 @@
+Power and Performance Mode: Maximum Performance
+Idle Power Saver Status: Idle Power Saver Enabled
+Processor Folding Status: 0
+Platform reported frequencies
+min	:	2.000 GHz
+max	:	4.000 GHz
+static	:	2.450 GHz
+
+Tool Computed frequencies
+min	:	3.996 GHz (cpu 0)
+max	:	3.996 GHz (cpu 1)
+avg	:	3.996 GHz
