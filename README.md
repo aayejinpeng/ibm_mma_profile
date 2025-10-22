@@ -20,4 +20,4 @@ bert_q8 = https://github.com/onnx/models/blob/main/validated/text/machine_compre
 
 llama_q8 = https://huggingface.co/onnx-community/Llama-3.2-1B-Instruct/blob/main/onnx/model_int8.onnx
 
-resnet50_q8 = https://github.com/onnx/models/blob/main/validated/vision/classification/resnet/model/resnet50-v1-12-int8.onnx
+resnet50_q8 = https://huggingface.co/Kalray/resnet50v1.5/tree/main
